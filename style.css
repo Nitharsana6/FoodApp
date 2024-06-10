@@ -1,0 +1,146 @@
+*{margin: 0;
+padding-left: 0;}
+
+img{width: 50px;
+height: 80px;}
+
+
+.navbar{display: flex;
+padding: 10px;}
+
+
+.navbar ul li{padding: 10px; 
+margin: 5px 20px;}
+
+.navbar ul li a:hover{
+background-color: brown;
+color: white;}
+
+#ordernow{
+    display: flex;}
+
+    .btn{background-color:brown;
+    padding: 10px;
+    margin: 10px 20px;
+    box-shadow: 5px whitesmoke;
+border: none;
+color: white;}
+
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px rgb(167, 155, 155);}
+
+.all{display: flex;
+justify-content: center;
+background-color: brown;
+}
+
+.saving{padding: 10px;
+margin: 50px;}
+
+.photo{padding: 10px;
+    margin: 50px 100px;}
+
+    .rocket{padding: 10px;
+        margin: 50px 100px;}
+
+     .GL{padding: 10px;
+        margin: 50px 100px;}   
+
+        .order{margin: 100px;}
+
+        .img1{width: 500px;
+        height: 400px;
+    display: flexbox;}
+
+    .learn{display: flex;
+    margin: 50px;}
+
+    .para{margin: 100px;}
+
+     .para1 ul li{list-style-type: none;}
+    
+     .content{display: flex;}
+
+     .img2{width: 500px;
+        height: 400px;
+    display: flexbox;}
+
+    .para1{margin: 40px;
+    padding: 20px;}
+
+    .gallery{margin: 10px;}
+
+    .content{justify-content: center;}
+    
+    #sec6::before{background: url(./UkiCohort10-FoodIn-main/bg/bg-2.jpg)no-repeat center center/cover;
+        content: "";
+        position: absolute;
+        height: 500px;
+        width: 100%;
+        z-index: -1;
+        opacity: .8;}
+
+        .para2 {margin: 100px 500px 50px 500px;
+        padding: 100px;
+    } 
+
+    .para2 h2{color: brown;
+        text-align: center;}
+
+        .para2 p{
+            text-align: center;}
+
+            .para2 .btn{margin-left: 300px;}
+
+
+            #sec7{margin: 200px;}
+
+            #sec7 h2{text-align: center;}
+            #sec7 p{text-align: center;}
+
+.picfood{display: flex;
+justify-content: center;
+padding: 20px;}
+
+.pic{width: 300px;
+height: 200px;
+}
+
+.sandwich{padding: 50px;}
+.Burger{padding: 50px;}
+.toaste{padding: 50px;}
+
+#sec7 .btn{margin: 20px 100px;}
+
+.footer-content{background-color: brown;
+padding: 20px;}
+
+.footer-content1{display: flex;
+padding: 20px;
+justify-content: center;}
+
+.footer-content ul li{width: auto;
+    text-align: center;
+    list-style-type: none;
+    padding: 7px;
+    position: relative;
+    color: white;
+display: flex;}
+
+.footer-content .icons{display: flex;
+justify-content: center;}
+
+.footer-content p{text-align: center;
+padding: 10px;
+color: white;}
+
+.click{margin: 30px;
+color: white;}
+
+.footer-content .icon{margin: 10px;
+}
+.footer-content .icon:hover{cursor: pointer;
+    box-shadow: 0 0 30px rgb(128, 123, 123);}
+
+
